@@ -23,9 +23,6 @@ SEEN_FILE   = Path("seen_jobs.json")
 OUT_FILE    = Path("jobs.json")      # accumulated across all runs
 README_FILE = Path("README.md")
 
-# Only return jobs posted within this window
-MAX_AGE_HOURS = 1
-
 SWE_KEYWORDS = {"software", "engineer", "swe", "developer", "backend",
                 "frontend", "fullstack", "full-stack", "ml", "systems",
                 "data", "infrastructure", "platform", "site reliability",
@@ -167,6 +164,26 @@ ASHBY = [
     "pachama", "nori", "toucan", "flowcarbon",
 ]
 
+# Workday: (host, site, display_name)
+# API: POST https://<host>/wday/cxs/<tenant>/<site>/jobs
+WORKDAY = [
+    ("nvidia.wd5.myworkdayjobs.com",      "NVIDIAExternalCareerSite", "nvidia"),
+    ("amd.wd5.myworkdayjobs.com",         "External",                 "amd"),
+    ("intel.wd1.myworkdayjobs.com",       "External",                 "intel"),
+    ("qualcomm.wd5.myworkdayjobs.com",    "External",                 "qualcomm"),
+    ("uber.wd5.myworkdayjobs.com",        "Uber_Careers",             "uber"),
+    ("salesforce.wd12.myworkdayjobs.com", "Salesforce_Careers",       "salesforce"),
+    ("linkedin.wd1.myworkdayjobs.com",    "jobs",                     "linkedin"),
+    ("paypal.wd1.myworkdayjobs.com",      "jobs",                     "paypal"),
+    ("adobe.wd5.myworkdayjobs.com",       "external_experienced",     "adobe"),
+    ("oracle.wd1.myworkdayjobs.com",      "External",                 "oracle"),
+    ("servicenow.wd5.myworkdayjobs.com",  "External",                 "servicenow"),
+    ("workday.wd5.myworkdayjobs.com",     "External",                 "workday"),
+    ("paloaltonetworks.wd1.myworkdayjobs.com", "External",            "palo-alto-networks"),
+    ("fortinet.wd1.myworkdayjobs.com",    "External",                 "fortinet"),
+    ("akamai.wd5.myworkdayjobs.com",      "External",                 "akamai"),
+]
+
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 _HTML_TAG_RE = re.compile(r'<[^>]+>')
@@ -187,12 +204,15 @@ def is_summer_2026(title: str, description: str = "") -> bool:
     """
     True if title+description together signal summer 2026 and nothing contradicts it.
     - Excludes if either mentions fall/spring/winter or a wrong year.
-    - Requires 'summer' or '2026' to appear somewhere in title or description.
+    - When a description is available, requires 'summer' or '2026' somewhere.
+    - When no description is available (Workday etc.), passes on title alone.
     """
     combined = title + " " + description
     if _EXCLUDE_PERIOD_RE.search(combined):
         return False
-    return bool(_SUMMER_2026_RE.search(combined))
+    if description.strip():
+        return bool(_SUMMER_2026_RE.search(combined))
+    return True  # no description — rely on title filter + seen_jobs dedup
 
 
 def _parse_iso(ts: str | None) -> datetime | None:
@@ -214,13 +234,6 @@ def _parse_ms(ms: int | None) -> datetime | None:
     except Exception:
         return None
 
-
-def _is_recent(posted_at: datetime | None) -> bool:
-    """True if the posting is within MAX_AGE_HOURS, or if no timestamp available."""
-    if posted_at is None:
-        return False  # no timestamp → skip (strict mode)
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
-    return posted_at >= cutoff
 
 
 def load_seen() -> set:
@@ -286,17 +299,31 @@ def write_readme(jobs: list[dict], new_ids: set[str]):
         "",
         "---",
         "",
-        "<sub>Positions must have **\"intern\"** in the title (+ a SWE keyword), "
-        "and **\"summer\"** or **\"2026\"** must appear in the title or job description. "
+        "<sub>Positions must have **\"intern\"** in the title (+ a SWE keyword). "
+        "**\"summer\"** or **\"2026\"** must appear in the title or description where available. "
         "Postings mentioning fall/spring/winter or other years are excluded. "
-        "Jobs are scraped hourly and must have been posted within the past hour to be added.</sub>",
+        "Scraped hourly from Greenhouse, Lever, Ashby, Workday, Google, Amazon, Microsoft & Apple. "
+        "🆕 = added since the previous run.</sub>",
     ]
     README_FILE.write_text("\n".join(lines) + "\n")
 
 
-def fetch(url: str) -> dict | list | None:
+def fetch(url: str, params: dict | None = None) -> dict | list | None:
     try:
-        r = requests.get(url, timeout=5, headers={"User-Agent": "Mozilla/5.0"})
+        r = requests.get(url, params=params, timeout=8, headers={"User-Agent": "Mozilla/5.0"})
+        if r.status_code == 200:
+            return r.json()
+    except Exception:
+        pass
+    return None
+
+
+def fetch_post(url: str, payload: dict) -> dict | None:
+    try:
+        r = requests.post(url, json=payload, timeout=8, headers={
+            "User-Agent": "Mozilla/5.0",
+            "Content-Type": "application/json",
+        })
         if r.status_code == 200:
             return r.json()
     except Exception:
@@ -315,8 +342,6 @@ def scrape_greenhouse(company: str) -> list[dict]:
         if not is_swe_intern_title(title):
             continue
         posted_at = _parse_iso(j.get("updated_at"))
-        if not _is_recent(posted_at):
-            continue
         # Fetch full job to get description (one extra call, only for passing jobs)
         detail = fetch(f"https://boards-api.greenhouse.io/v1/boards/{company}/jobs/{j['id']}")
         desc = _strip_html(detail.get("content", "")) if detail else ""
@@ -344,8 +369,6 @@ def scrape_lever(company: str) -> list[dict]:
         if not is_swe_intern_title(title):
             continue
         posted_at = _parse_ms(j.get("createdAt"))
-        if not _is_recent(posted_at):
-            continue
         # Description is included in the listing response
         desc = j.get("descriptionPlain", "") or _strip_html(j.get("description", ""))
         if not is_summer_2026(title, desc):
@@ -372,8 +395,6 @@ def scrape_ashby(company: str) -> list[dict]:
         if not is_swe_intern_title(title):
             continue
         posted_at = _parse_iso(j.get("publishedDate"))
-        if not _is_recent(posted_at):
-            continue
         # Description is included in the listing response
         desc = _strip_html(j.get("descriptionHtml", "") or j.get("description", ""))
         if not is_summer_2026(title, desc):
@@ -388,6 +409,163 @@ def scrape_ashby(company: str) -> list[dict]:
             "source":    "ashby",
         })
     return jobs
+
+def scrape_google() -> list[dict]:
+    data = fetch("https://careers.google.com/api/jobs/jobs-v1/search/", params={
+        "q": "software engineer intern 2026",
+        "employment_type": "INTERN",
+        "page_size": 100,
+        "hl": "en_US",
+    })
+    if not data:
+        return []
+    jobs = []
+    for j in data.get("jobs", []):
+        title = j.get("title", "")
+        if not is_swe_intern_title(title):
+            continue
+        desc = _strip_html(j.get("description", ""))
+        if not is_summer_2026(title, desc):
+            continue
+        loc = ", ".join(l.get("display", "") for l in j.get("locations", []))
+        posted_at = _parse_iso(j.get("publish_date"))
+        jobs.append({
+            "id":        f"goog:{j.get('job_id', title[:60])}",
+            "company":   "google",
+            "title":     title,
+            "url":       j.get("apply_url", "https://careers.google.com"),
+            "location":  loc,
+            "posted_at": posted_at.isoformat() if posted_at else None,
+            "source":    "google",
+        })
+    return jobs
+
+
+def scrape_amazon() -> list[dict]:
+    data = fetch("https://www.amazon.jobs/en/search.json", params={
+        "base_query":        "software engineer intern 2026",
+        "result_limit":      100,
+        "schedule_type_id[]": "Internship",
+    })
+    if not data:
+        return []
+    jobs = []
+    for j in data.get("jobs", []):
+        title = j.get("title", "")
+        if not is_swe_intern_title(title):
+            continue
+        desc = _strip_html(j.get("description", ""))
+        if not is_summer_2026(title, desc):
+            continue
+        posted_at = _parse_iso(j.get("posted_date"))
+        jobs.append({
+            "id":        f"amzn:{j.get('id_icims', j.get('job_id', title[:60]))}",
+            "company":   "amazon",
+            "title":     title,
+            "url":       f"https://www.amazon.jobs{j.get('job_path', '')}",
+            "location":  j.get("normalized_location", j.get("location", "")),
+            "posted_at": posted_at.isoformat() if posted_at else None,
+            "source":    "amazon",
+        })
+    return jobs
+
+
+def scrape_microsoft() -> list[dict]:
+    data = fetch("https://gcsservices.careers.microsoft.com/search/api/v1/search", params={
+        "q":    "software engineer intern",
+        "l":    "en_us",
+        "pg":   1,
+        "pgSz": 20,
+        "o":    "Relevance",
+        "flt":  "true",
+    })
+    if not data:
+        return []
+    jobs = []
+    for j in (data.get("operationResult", {})
+                  .get("result", {})
+                  .get("jobs", [])):
+        title = j.get("title", "")
+        if not is_swe_intern_title(title):
+            continue
+        desc = _strip_html(j.get("description", ""))
+        if not is_summer_2026(title, desc):
+            continue
+        job_id    = j.get("jobId", "")
+        posted_at = _parse_iso(j.get("postingDate"))
+        jobs.append({
+            "id":        f"msft:{job_id}",
+            "company":   "microsoft",
+            "title":     title,
+            "url":       f"https://jobs.careers.microsoft.com/global/en/job/{job_id}",
+            "location":  j.get("primaryLocation", ""),
+            "posted_at": posted_at.isoformat() if posted_at else None,
+            "source":    "microsoft",
+        })
+    return jobs
+
+
+def scrape_apple() -> list[dict]:
+    data = fetch("https://jobs.apple.com/api/role/search", params={
+        "q":       "software engineer intern",
+        "filters": "STOREFRONT_ID%255B%255D%3DUSAF%2C1",
+        "page":    1,
+        "locale":  "en-US",
+    })
+    if not data:
+        return []
+    jobs = []
+    for j in data.get("searchResults", []):
+        title = j.get("postingTitle", "")
+        if not is_swe_intern_title(title):
+            continue
+        desc = _strip_html(j.get("jobSummary", ""))
+        if not is_summer_2026(title, desc):
+            continue
+        job_id    = j.get("positionId", "")
+        posted_at = _parse_iso(j.get("postingDate"))
+        jobs.append({
+            "id":        f"aapl:{job_id}",
+            "company":   "apple",
+            "title":     title,
+            "url":       f"https://jobs.apple.com/en-us/details/{job_id}",
+            "location":  j.get("location", {}).get("name", ""),
+            "posted_at": posted_at.isoformat() if posted_at else None,
+            "source":    "apple",
+        })
+    return jobs
+
+
+def scrape_workday(host: str, site: str, company: str) -> list[dict]:
+    tenant = host.split(".")[0]
+    data = fetch_post(
+        f"https://{host}/wday/cxs/{tenant}/{site}/jobs",
+        {"appliedFacets": {}, "limit": 20, "offset": 0,
+         "searchText": "software engineer intern"},
+    )
+    if not data:
+        return []
+    jobs = []
+    for j in data.get("jobPostings", []):
+        title = j.get("title", "")
+        if not is_swe_intern_title(title):
+            continue
+        # Workday listings don't include description — title-only check
+        if not is_summer_2026(title):
+            continue
+        path      = j.get("externalPath", "")
+        posted_at = None  # Workday returns relative strings like "Posted Today"
+        jobs.append({
+            "id":        f"wd:{company}:{path.split('/')[-1]}",
+            "company":   company,
+            "title":     title,
+            "url":       f"https://{host}{path}",
+            "location":  j.get("locationsText", ""),
+            "posted_at": posted_at,
+            "source":    "workday",
+        })
+    return jobs
+
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
@@ -408,13 +586,29 @@ def main():
     fresh_jobs: list[dict] = []
 
     print(f"\n  Summer 2026 SWE Intern Scraper  —  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print(f"  Filter: posted within last {MAX_AGE_HOURS}h | title must say \"summer\" or \"2026\"")
-    total = len(GREENHOUSE) + len(LEVER) + len(ASHBY)
-    print(f"  Checking {total} companies across Greenhouse / Lever / Ashby\n")
+    ats_total = len(GREENHOUSE) + len(LEVER) + len(ASHBY) + len(WORKDAY)
+    print(f"  Checking {ats_total} ATS companies + Google / Amazon / Microsoft / Apple\n")
 
     fresh_jobs += scrape_all(GREENHOUSE, scrape_greenhouse, "greenhouse")
     fresh_jobs += scrape_all(LEVER,      scrape_lever,      "lever     ")
     fresh_jobs += scrape_all(ASHBY,      scrape_ashby,      "ashby     ")
+    fresh_jobs += scrape_all(
+        [(h, s, c) for h, s, c in WORKDAY],
+        lambda x: scrape_workday(*x),
+        "workday   ",
+    )
+
+    print("  Scraping big-tech portals...")
+    for fn, label in [
+        (scrape_google,    "google   "),
+        (scrape_amazon,    "amazon   "),
+        (scrape_microsoft, "microsoft"),
+        (scrape_apple,     "apple    "),
+    ]:
+        jobs = fn()
+        if jobs:
+            print(f"  [{label}] {len(jobs)}")
+        fresh_jobs.extend(jobs)
 
     # Deduplicate within this run
     seen_this_run: set[str] = set()
