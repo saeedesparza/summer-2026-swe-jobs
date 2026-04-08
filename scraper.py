@@ -178,7 +178,8 @@ def is_summer_2026_swe_intern(title: str) -> bool:
         return False
     if _EXCLUDE_PERIOD_RE.search(title):   # fall/spring/winter or wrong year
         return False
-    return bool(_SUMMER_2026_RE.search(title))  # must say "summer" or "2026"
+    # must say "summer" or "2026", OR just "intern/internship" with no conflicting period
+    return bool(_SUMMER_2026_RE.search(title)) or bool(_INTERN_RE.search(title))
 
 
 def _parse_iso(ts: str | None) -> datetime | None:
@@ -272,7 +273,8 @@ def write_readme(jobs: list[dict], new_ids: set[str]):
         "",
         "---",
         "",
-        "<sub>Only positions with **\"summer\"** or **\"2026\"** in the title are included. "
+        "<sub>Positions must have **\"intern\"** in the title and not reference another season "
+        "(fall/spring/winter) or year (2025/2027+). "
         "Jobs are scraped hourly and must have been posted within the past hour to be added.</sub>",
     ]
     README_FILE.write_text("\n".join(lines) + "\n")
