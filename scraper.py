@@ -169,17 +169,30 @@ ASHBY = [
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
-def is_summer_2026_swe_intern(title: str) -> bool:
-    """Return True only for summer-2026 SWE intern postings."""
+_HTML_TAG_RE = re.compile(r'<[^>]+>')
+
+def _strip_html(text: str) -> str:
+    return _HTML_TAG_RE.sub(' ', text)
+
+
+def is_swe_intern_title(title: str) -> bool:
+    """Title must have intern + a SWE keyword, with no conflicting period."""
     t = title.lower()
-    if not _INTERN_RE.search(t):
+    return (bool(_INTERN_RE.search(t))
+            and any(w in t for w in SWE_KEYWORDS)
+            and not bool(_EXCLUDE_PERIOD_RE.search(title)))
+
+
+def is_summer_2026(title: str, description: str = "") -> bool:
+    """
+    True if title+description together signal summer 2026 and nothing contradicts it.
+    - Excludes if either mentions fall/spring/winter or a wrong year.
+    - Requires 'summer' or '2026' to appear somewhere in title or description.
+    """
+    combined = title + " " + description
+    if _EXCLUDE_PERIOD_RE.search(combined):
         return False
-    if not any(w in t for w in SWE_KEYWORDS):
-        return False
-    if _EXCLUDE_PERIOD_RE.search(title):   # fall/spring/winter or wrong year
-        return False
-    # must say "summer" or "2026", OR just "intern/internship" with no conflicting period
-    return bool(_SUMMER_2026_RE.search(title)) or bool(_INTERN_RE.search(title))
+    return bool(_SUMMER_2026_RE.search(combined))
 
 
 def _parse_iso(ts: str | None) -> datetime | None:
@@ -273,8 +286,9 @@ def write_readme(jobs: list[dict], new_ids: set[str]):
         "",
         "---",
         "",
-        "<sub>Positions must have **\"intern\"** in the title and not reference another season "
-        "(fall/spring/winter) or year (2025/2027+). "
+        "<sub>Positions must have **\"intern\"** in the title (+ a SWE keyword), "
+        "and **\"summer\"** or **\"2026\"** must appear in the title or job description. "
+        "Postings mentioning fall/spring/winter or other years are excluded. "
         "Jobs are scraped hourly and must have been posted within the past hour to be added.</sub>",
     ]
     README_FILE.write_text("\n".join(lines) + "\n")
@@ -298,10 +312,15 @@ def scrape_greenhouse(company: str) -> list[dict]:
     jobs = []
     for j in data.get("jobs", []):
         title = j.get("title", "")
-        if not is_summer_2026_swe_intern(title):
+        if not is_swe_intern_title(title):
             continue
         posted_at = _parse_iso(j.get("updated_at"))
         if not _is_recent(posted_at):
+            continue
+        # Fetch full job to get description (one extra call, only for passing jobs)
+        detail = fetch(f"https://boards-api.greenhouse.io/v1/boards/{company}/jobs/{j['id']}")
+        desc = _strip_html(detail.get("content", "")) if detail else ""
+        if not is_summer_2026(title, desc):
             continue
         jobs.append({
             "id":        f"gh:{company}:{j['id']}",
@@ -322,10 +341,14 @@ def scrape_lever(company: str) -> list[dict]:
     jobs = []
     for j in data:
         title = j.get("text", "")
-        if not is_summer_2026_swe_intern(title):
+        if not is_swe_intern_title(title):
             continue
         posted_at = _parse_ms(j.get("createdAt"))
         if not _is_recent(posted_at):
+            continue
+        # Description is included in the listing response
+        desc = j.get("descriptionPlain", "") or _strip_html(j.get("description", ""))
+        if not is_summer_2026(title, desc):
             continue
         jobs.append({
             "id":        f"lv:{company}:{j['id']}",
@@ -346,10 +369,14 @@ def scrape_ashby(company: str) -> list[dict]:
     jobs = []
     for j in data.get("jobs", []):
         title = j.get("title", "")
-        if not is_summer_2026_swe_intern(title):
+        if not is_swe_intern_title(title):
             continue
         posted_at = _parse_iso(j.get("publishedDate"))
         if not _is_recent(posted_at):
+            continue
+        # Description is included in the listing response
+        desc = _strip_html(j.get("descriptionHtml", "") or j.get("description", ""))
+        if not is_summer_2026(title, desc):
             continue
         jobs.append({
             "id":        f"ash:{company}:{j['id']}",
