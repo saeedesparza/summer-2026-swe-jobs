@@ -1,0 +1,7 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Claude Code memory (personal context — never commit)
+.claude/
