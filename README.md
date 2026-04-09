@@ -1,6 +1,6 @@
 # Summer 2026 SWE Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 09, 2026 10:07 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 09, 2026 11:49 UTC**  
 > **75** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -82,7 +82,7 @@
 | **Paypal** | [Software Engineer Intern- GPS](https://paypal.wd1.myworkdayjobs.com/job/Central-Singapore-Singapore/Software-Engineer-Intern--GPS_R0133557) | Central Singapore, Singapore |  |
 | **Adobe** | [2026 Intern - Software Engineer Intern](https://adobe.wd5.myworkdayjobs.com/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Software-Engineer-Intern_R160473) | San Jose |  |
 | **Adobe** | [2026 AI/ML Intern - Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469) | San Jose |  |
-| **Intel** 🆕 | [Circuit Design Engineer Intern](https://intel.wd1.myworkdayjobs.com/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | US, Texas, Austin |  |
+| **Intel** | [Circuit Design Engineer Intern](https://intel.wd1.myworkdayjobs.com/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | US, Texas, Austin |  |
 
 ---
 
