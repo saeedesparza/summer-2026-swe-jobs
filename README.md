@@ -1,14 +1,14 @@
 # Summer 2026 SWE Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 09, 2026 08:16 UTC**  
-> **74** positions found · Scraped from Greenhouse, Lever & Ashby  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 09, 2026 10:07 UTC**  
+> **75** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
 ---
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Cloudflare** 🆕 | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 09 |
+| **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 09 |
 | **Waymo** | [2026 Summer Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7254796) | — | Apr 08 |
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 08 |
 | **Brex** | [Software Engineer, Internship - 2026](https://www.brex.com/careers/8434385002?gh_jid=8434385002) | — | Apr 08 |
@@ -82,6 +82,7 @@
 | **Paypal** | [Software Engineer Intern- GPS](https://paypal.wd1.myworkdayjobs.com/job/Central-Singapore-Singapore/Software-Engineer-Intern--GPS_R0133557) | Central Singapore, Singapore |  |
 | **Adobe** | [2026 Intern - Software Engineer Intern](https://adobe.wd5.myworkdayjobs.com/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Software-Engineer-Intern_R160473) | San Jose |  |
 | **Adobe** | [2026 AI/ML Intern - Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469) | San Jose |  |
+| **Intel** 🆕 | [Circuit Design Engineer Intern](https://intel.wd1.myworkdayjobs.com/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395) | US, Texas, Austin |  |
 
 ---
 

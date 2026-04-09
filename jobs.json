@@ -664,5 +664,14 @@
     "location": "San Jose",
     "posted_at": null,
     "source": "workday"
+  },
+  {
+    "id": "wd:intel:Circuit-Design-Engineer-Intern_JR0281395",
+    "company": "intel",
+    "title": "Circuit Design Engineer Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395",
+    "location": "US, Texas, Austin",
+    "posted_at": null,
+    "source": "workday"
   }
 ]
