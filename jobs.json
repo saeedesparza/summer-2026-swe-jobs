@@ -673,5 +673,14 @@
     "location": "US, Texas, Austin",
     "posted_at": null,
     "source": "workday"
+  },
+  {
+    "id": "wd:adobe:XMLNAME-2026-Intern--Software-Engineer_R161202",
+    "company": "adobe",
+    "title": "2026 Intern- Software Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/job/Basel/XMLNAME-2026-Intern--Software-Engineer_R161202",
+    "location": "Basel",
+    "posted_at": null,
+    "source": "workday"
   }
 ]
