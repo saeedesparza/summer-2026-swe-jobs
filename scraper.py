@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-SWE Intern Summer 2026 Scraper
+CS Intern Summer 2026 Scraper
 Hits Greenhouse / Lever / Ashby ATS APIs directly — no browser, no fragile selectors.
+Covers SWE, PM, BA, data, QA, and other CS-adjacent intern roles.
 Run: python3 scraper.py
 """
 
@@ -28,6 +29,28 @@ SWE_KEYWORDS = {"software", "engineer", "swe", "developer", "backend",
                 "data", "infrastructure", "platform", "site reliability",
                 "devops", "security", "embedded", "firmware", "compiler",
                 "graphics", "game", "ai", "research"}
+
+# Non-SWE but CS-adjacent roles (multi-word patterns that would be missed by SWE_KEYWORDS)
+_CS_ROLE_RE = re.compile(
+    r"\b("
+    r"business\s+analyst"
+    r"|product\s+manager"
+    r"|project\s+manager"
+    r"|program\s+manager"
+    r"|technical\s+program"
+    r"|solutions?\s+engineer"
+    r"|data\s+analyst"
+    r"|data\s+scientist"
+    r"|quantitative\s+analyst"
+    r"|it\s+(specialist|analyst|support)"
+    r"|quality\s+assurance"
+    r"|qa\s+engineer"
+    r"|test\s+engineer"
+    r"|ux\s+researcher"
+    r"|information\s+(systems?|technology)"
+    r")\b",
+    re.IGNORECASE,
+)
 
 # Matches "intern"/"internship" as a whole word — excludes "internal", "internals"
 _INTERN_RE = re.compile(r"\b(intern|internship|co-?op)\b", re.IGNORECASE)
@@ -192,11 +215,11 @@ def _strip_html(text: str) -> str:
     return _HTML_TAG_RE.sub(' ', text)
 
 
-def is_swe_intern_title(title: str) -> bool:
-    """Title must have intern + a SWE keyword, with no conflicting period."""
+def is_cs_intern_title(title: str) -> bool:
+    """Title must have intern + a SWE keyword or CS-adjacent role, with no conflicting period."""
     t = title.lower()
     return (bool(_INTERN_RE.search(t))
-            and any(w in t for w in SWE_KEYWORDS)
+            and (any(w in t for w in SWE_KEYWORDS) or bool(_CS_ROLE_RE.search(t)))
             and not bool(_EXCLUDE_PERIOD_RE.search(title)))
 
 
@@ -268,7 +291,7 @@ def _sort_key(job: dict) -> datetime:
 def write_readme(jobs: list[dict], new_ids: set[str]):
     now = datetime.now(timezone.utc).strftime("%B %d, %Y %H:%M UTC")
     lines = [
-        "# Summer 2026 SWE Internships",
+        "# Summer 2026 CS Internships",
         "",
         f"> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **{now}**  ",
         f"> **{len(jobs)}** positions found · Scraped from Greenhouse, Lever & Ashby  ",
@@ -299,7 +322,8 @@ def write_readme(jobs: list[dict], new_ids: set[str]):
         "",
         "---",
         "",
-        "<sub>Positions must have **\"intern\"** in the title (+ a SWE keyword). "
+        "<sub>Positions must have **\"intern\"** in the title plus a SWE keyword or CS-adjacent role "
+        "(software engineer, product/project/program manager, business analyst, data analyst/scientist, QA engineer, solutions engineer, etc.). "
         "**\"summer\"** or **\"2026\"** must appear in the title or description where available. "
         "Postings mentioning fall/spring/winter or other years are excluded. "
         "Scraped hourly from Greenhouse, Lever, Ashby, Workday, Google, Amazon, Microsoft & Apple. "
@@ -339,7 +363,7 @@ def scrape_greenhouse(company: str) -> list[dict]:
     jobs = []
     for j in data.get("jobs", []):
         title = j.get("title", "")
-        if not is_swe_intern_title(title):
+        if not is_cs_intern_title(title):
             continue
         posted_at = _parse_iso(j.get("updated_at"))
         # Fetch full job to get description (one extra call, only for passing jobs)
@@ -366,7 +390,7 @@ def scrape_lever(company: str) -> list[dict]:
     jobs = []
     for j in data:
         title = j.get("text", "")
-        if not is_swe_intern_title(title):
+        if not is_cs_intern_title(title):
             continue
         posted_at = _parse_ms(j.get("createdAt"))
         # Description is included in the listing response
@@ -392,7 +416,7 @@ def scrape_ashby(company: str) -> list[dict]:
     jobs = []
     for j in data.get("jobs", []):
         title = j.get("title", "")
-        if not is_swe_intern_title(title):
+        if not is_cs_intern_title(title):
             continue
         posted_at = _parse_iso(j.get("publishedDate"))
         # Description is included in the listing response
@@ -412,7 +436,7 @@ def scrape_ashby(company: str) -> list[dict]:
 
 def scrape_google() -> list[dict]:
     data = fetch("https://careers.google.com/api/jobs/jobs-v1/search/", params={
-        "q": "software engineer intern 2026",
+        "q": "intern 2026",
         "employment_type": "INTERN",
         "page_size": 100,
         "hl": "en_US",
@@ -422,7 +446,7 @@ def scrape_google() -> list[dict]:
     jobs = []
     for j in data.get("jobs", []):
         title = j.get("title", "")
-        if not is_swe_intern_title(title):
+        if not is_cs_intern_title(title):
             continue
         desc = _strip_html(j.get("description", ""))
         if not is_summer_2026(title, desc):
@@ -443,7 +467,7 @@ def scrape_google() -> list[dict]:
 
 def scrape_amazon() -> list[dict]:
     data = fetch("https://www.amazon.jobs/en/search.json", params={
-        "base_query":        "software engineer intern 2026",
+        "base_query":        "intern 2026",
         "result_limit":      100,
         "schedule_type_id[]": "Internship",
     })
@@ -452,7 +476,7 @@ def scrape_amazon() -> list[dict]:
     jobs = []
     for j in data.get("jobs", []):
         title = j.get("title", "")
-        if not is_swe_intern_title(title):
+        if not is_cs_intern_title(title):
             continue
         desc = _strip_html(j.get("description", ""))
         if not is_summer_2026(title, desc):
@@ -472,10 +496,10 @@ def scrape_amazon() -> list[dict]:
 
 def scrape_microsoft() -> list[dict]:
     data = fetch("https://gcsservices.careers.microsoft.com/search/api/v1/search", params={
-        "q":    "software engineer intern",
+        "q":    "intern 2026",
         "l":    "en_us",
         "pg":   1,
-        "pgSz": 20,
+        "pgSz": 100,
         "o":    "Relevance",
         "flt":  "true",
     })
@@ -486,7 +510,7 @@ def scrape_microsoft() -> list[dict]:
                   .get("result", {})
                   .get("jobs", [])):
         title = j.get("title", "")
-        if not is_swe_intern_title(title):
+        if not is_cs_intern_title(title):
             continue
         desc = _strip_html(j.get("description", ""))
         if not is_summer_2026(title, desc):
@@ -507,7 +531,7 @@ def scrape_microsoft() -> list[dict]:
 
 def scrape_apple() -> list[dict]:
     data = fetch("https://jobs.apple.com/api/role/search", params={
-        "q":       "software engineer intern",
+        "q":       "intern 2026",
         "filters": "STOREFRONT_ID%255B%255D%3DUSAF%2C1",
         "page":    1,
         "locale":  "en-US",
@@ -517,7 +541,7 @@ def scrape_apple() -> list[dict]:
     jobs = []
     for j in data.get("searchResults", []):
         title = j.get("postingTitle", "")
-        if not is_swe_intern_title(title):
+        if not is_cs_intern_title(title):
             continue
         desc = _strip_html(j.get("jobSummary", ""))
         if not is_summer_2026(title, desc):
@@ -540,15 +564,15 @@ def scrape_workday(host: str, site: str, company: str) -> list[dict]:
     tenant = host.split(".")[0]
     data = fetch_post(
         f"https://{host}/wday/cxs/{tenant}/{site}/jobs",
-        {"appliedFacets": {}, "limit": 20, "offset": 0,
-         "searchText": "software engineer intern"},
+        {"appliedFacets": {}, "limit": 50, "offset": 0,
+         "searchText": "intern 2026"},
     )
     if not data:
         return []
     jobs = []
     for j in data.get("jobPostings", []):
         title = j.get("title", "")
-        if not is_swe_intern_title(title):
+        if not is_cs_intern_title(title):
             continue
         # Workday listings don't include description — title-only check
         if not is_summer_2026(title):
@@ -585,7 +609,7 @@ def main():
     accumulated = {j["id"]: j for j in load_all_jobs()}
     fresh_jobs: list[dict] = []
 
-    print(f"\n  Summer 2026 SWE Intern Scraper  —  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"\n  Summer 2026 CS Intern Scraper  —  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     ats_total = len(GREENHOUSE) + len(LEVER) + len(ASHBY) + len(WORKDAY)
     print(f"  Checking {ats_total} ATS companies + Google / Amazon / Microsoft / Apple\n")
 

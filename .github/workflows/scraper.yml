@@ -1,4 +1,4 @@
-name: Scrape Summer 2026 SWE Internships
+name: Scrape Summer 2026 CS Internships
 
 on:
   schedule:
