@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 09, 2026 17:02 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 09, 2026 18:03 UTC**  
 > **80** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -11,12 +11,12 @@
 | **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 09 |
 | **Waymo** | [2026 Summer Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7254796) | — | Apr 08 |
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 08 |
-| **Cloudflare** 🆕 | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) | — | Apr 08 |
+| **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) | — | Apr 08 |
 | **Brex** | [Software Engineer, Internship - 2026](https://www.brex.com/careers/8434385002?gh_jid=8434385002) | — | Apr 08 |
-| **Cloudflare** 🆕 | [Sales and Marketing Project Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736669?gh_jid=7736669) | — | Apr 07 |
+| **Cloudflare** | [Sales and Marketing Project Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736669?gh_jid=7736669) | — | Apr 07 |
 | **Cloudflare** | [Marketing Events and Campaigns Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733327?gh_jid=7733327) | — | Apr 07 |
 | **Brex** | [Software Engineer, Intern](https://www.brex.com/careers/8434389002?gh_jid=8434389002) | — | Apr 07 |
-| **Cloudflare** 🆕 | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) | — | Apr 06 |
+| **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) | — | Apr 06 |
 | **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | — | Apr 06 |
 | **Motional** | [2026 Summer Intern – PhD – Research Engineering Intern, Generative Simulation Validation](https://motional.com/open-positions/?gh_jid=7646487003#/7646487003) | — | Apr 06 |
 | **Motional** | [2026 Summer Intern – MS/PhD – Infrastructure](https://motional.com/open-positions/?gh_jid=7570086003#/7570086003) | — | Apr 06 |
@@ -24,7 +24,7 @@
 | **Twilio** | [Software Engineer Intern (June start, Remote-Ireland)](https://job-boards.greenhouse.io/twilio/jobs/7585589) | — | Apr 06 |
 | **Cloudflare** | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | — | Apr 02 |
 | **Greenlight** | [Data Analytics Intern](https://jobs.lever.co/greenlight/000fea6e-4dc2-42a7-9389-b6591dbecdb1) | Atlanta, GA | Apr 02 |
-| **Greenlight** 🆕 | [Product Manager Intern](https://jobs.lever.co/greenlight/97ed5fd4-6156-4b0b-b009-0af7b83916d1) | Atlanta, GA | Apr 02 |
+| **Greenlight** | [Product Manager Intern](https://jobs.lever.co/greenlight/97ed5fd4-6156-4b0b-b009-0af7b83916d1) | Atlanta, GA | Apr 02 |
 | **Cloudflare** | [Sales Revenue AI Tools Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7770160?gh_jid=7770160) | — | Apr 01 |
 | **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7765500?gh_jid=7765500) | — | Apr 01 |
 | **Cloudflare** | [Marketing Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729606?gh_jid=7729606) | — | Apr 01 |
