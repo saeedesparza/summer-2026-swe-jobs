@@ -1,13 +1,14 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 10, 2026 01:29 UTC**  
-> **80** positions found · Scraped from Greenhouse, Lever & Ashby  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 10, 2026 04:42 UTC**  
+> **81** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
 ---
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Cloudflare** 🆕 | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | — | Apr 09 |
 | **Waymo** | [2026 Summer Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7254796) | — | Apr 09 |
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 09 |
 | **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 09 |
