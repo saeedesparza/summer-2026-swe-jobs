@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 10, 2026 14:18 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 10, 2026 15:47 UTC**  
 > **81** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,8 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Udemy** | [Front End Software Engineer Intern](https://app.careerpuck.com/job-board/udemy/job/5809832004?gh_jid=5809832004) | — | Apr 10 |
+| **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 10 |
 | **Cloudflare** | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | — | Apr 09 |
 | **Waymo** | [2026 Summer Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7254796) | — | Apr 09 |
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 09 |
@@ -21,7 +23,6 @@
 | **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | — | Apr 06 |
 | **Motional** | [2026 Summer Intern – PhD – Research Engineering Intern, Generative Simulation Validation](https://motional.com/open-positions/?gh_jid=7646487003#/7646487003) | — | Apr 06 |
 | **Motional** | [2026 Summer Intern – MS/PhD – Infrastructure](https://motional.com/open-positions/?gh_jid=7570086003#/7570086003) | — | Apr 06 |
-| **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 06 |
 | **Twilio** | [Software Engineer Intern (June start, Remote-Ireland)](https://job-boards.greenhouse.io/twilio/jobs/7585589) | — | Apr 06 |
 | **Cloudflare** | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | — | Apr 02 |
 | **Greenlight** | [Data Analytics Intern](https://jobs.lever.co/greenlight/000fea6e-4dc2-42a7-9389-b6591dbecdb1) | Atlanta, GA | Apr 02 |
@@ -32,7 +33,6 @@
 | **Udemy** | [Data Science Intern, AI Products](https://app.careerpuck.com/job-board/udemy/job/5809884004?gh_jid=5809884004) | — | Apr 01 |
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 01 |
 | **Cloudflare** | [Customer Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7758279?gh_jid=7758279) | — | Apr 01 |
-| **Udemy** | [Front End Software Engineer Intern](https://app.careerpuck.com/job-board/udemy/job/5809832004?gh_jid=5809832004) | — | Mar 30 |
 | **Udemy** | [Evaluative UX Research Intern](https://app.careerpuck.com/job-board/udemy/job/5809877004?gh_jid=5809877004) | — | Mar 30 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | — | Mar 30 |
 | **Cloudflare** | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | — | Mar 30 |
