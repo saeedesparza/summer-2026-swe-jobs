@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 11, 2026 19:33 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 11, 2026 20:26 UTC**  
 > **81** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,8 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Brex** | [Software Engineer, Internship - 2026](https://www.brex.com/careers/8434385002?gh_jid=8434385002) | — | Apr 11 |
+| **Brex** | [Software Engineer, Intern](https://www.brex.com/careers/8434389002?gh_jid=8434389002) | — | Apr 11 |
 | **Udemy** | [Front End Software Engineer Intern](https://app.careerpuck.com/job-board/udemy/job/5809832004?gh_jid=5809832004) | — | Apr 10 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 10 |
 | **Cloudflare** | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | — | Apr 09 |
@@ -15,10 +17,8 @@
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 09 |
 | **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 09 |
 | **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) | — | Apr 08 |
-| **Brex** | [Software Engineer, Internship - 2026](https://www.brex.com/careers/8434385002?gh_jid=8434385002) | — | Apr 08 |
 | **Cloudflare** | [Sales and Marketing Project Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736669?gh_jid=7736669) | — | Apr 07 |
 | **Cloudflare** | [Marketing Events and Campaigns Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733327?gh_jid=7733327) | — | Apr 07 |
-| **Brex** | [Software Engineer, Intern](https://www.brex.com/careers/8434389002?gh_jid=8434389002) | — | Apr 07 |
 | **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) | — | Apr 06 |
 | **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | — | Apr 06 |
 | **Motional** | [2026 Summer Intern – PhD – Research Engineering Intern, Generative Simulation Validation](https://motional.com/open-positions/?gh_jid=7646487003#/7646487003) | — | Apr 06 |
