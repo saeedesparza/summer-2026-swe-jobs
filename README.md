@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 13, 2026 21:43 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 13, 2026 22:40 UTC**  
 > **84** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -38,7 +38,7 @@
 | **Udemy** | [Evaluative UX Research Intern](https://app.careerpuck.com/job-board/udemy/job/5809877004?gh_jid=5809877004) | — | Mar 30 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | — | Mar 30 |
 | **Cloudflare** | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | — | Mar 30 |
-| **Cloudflare** 🆕 | [Infrastructure Deployment Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7759602?gh_jid=7759602) | — | Mar 27 |
+| **Cloudflare** | [Infrastructure Deployment Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7759602?gh_jid=7759602) | — | Mar 27 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5129429008) | — | Mar 26 |
 | **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | — | Mar 24 |
 | **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | — | Mar 24 |
