@@ -1,7 +1,7 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 13, 2026 11:13 UTC**  
-> **81** positions found · Scraped from Greenhouse, Lever & Ashby  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 13, 2026 13:06 UTC**  
+> **82** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
 ---
@@ -32,6 +32,7 @@
 | **Cloudflare** | [Marketing Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729606?gh_jid=7729606) | — | Apr 01 |
 | **Udemy** | [Data Science Intern, AI Products](https://app.careerpuck.com/job-board/udemy/job/5809884004?gh_jid=5809884004) | — | Apr 01 |
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 01 |
+| **Stripe** 🆕 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | — | Apr 01 |
 | **Cloudflare** | [Customer Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7758279?gh_jid=7758279) | — | Apr 01 |
 | **Udemy** | [Evaluative UX Research Intern](https://app.careerpuck.com/job-board/udemy/job/5809877004?gh_jid=5809877004) | — | Mar 30 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | — | Mar 30 |
