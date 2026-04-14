@@ -1,7 +1,7 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 14, 2026 08:24 UTC**  
-> **84** positions found · Scraped from Greenhouse, Lever & Ashby  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 14, 2026 10:10 UTC**  
+> **85** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
 ---
@@ -52,6 +52,7 @@
 | **Cloudflare** | [Data and Technology - Operations and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7675578?gh_jid=7675578) | — | Mar 13 |
 | **Cloudflare** | [Data Analytics Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7668989?gh_jid=7668989) | — | Mar 05 |
 | **Cloudflare** | [Data and Technology - Legal Privacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7659508?gh_jid=7659508) | — | Mar 03 |
+| **Udemy** 🆕 | [Software Engineering Intern](https://app.careerpuck.com/job-board/udemy/job/5809881004?gh_jid=5809881004) | — | Mar 03 |
 | **Airbnb** | [Machine Learning Engineering Intern (PhD)](https://careers.airbnb.com/positions/7669906?gh_jid=7669906) | — | Mar 02 |
 | **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Feb 10 |
 | **Nuro** | [Systems Test Engineering Intern](https://nuro.ai/careersitem?gh_jid=7587180) | — | Feb 10 |
