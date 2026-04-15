@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 14, 2026 23:38 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 15, 2026 01:29 UTC**  
 > **86** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Apr 14 |
 | **Cloudflare** | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | — | Apr 14 |
 | **Cloudflare** | [Business Systems Analyst Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7812290?gh_jid=7812290) | — | Apr 13 |
 | **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 13 |
@@ -55,7 +56,6 @@
 | **Cloudflare** | [Data and Technology - Legal Privacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7659508?gh_jid=7659508) | — | Mar 03 |
 | **Udemy** | [Software Engineering Intern](https://app.careerpuck.com/job-board/udemy/job/5809881004?gh_jid=5809881004) | — | Mar 03 |
 | **Airbnb** | [Machine Learning Engineering Intern (PhD)](https://careers.airbnb.com/positions/7669906?gh_jid=7669906) | — | Mar 02 |
-| **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Feb 10 |
 | **Nuro** | [Systems Test Engineering Intern](https://nuro.ai/careersitem?gh_jid=7587180) | — | Feb 10 |
 | **Cloudflare** | [ Red Team Security Intern (Summer 2026) ](https://boards.greenhouse.io/cloudflare/jobs/7578802?gh_jid=7578802) | — | Feb 06 |
 | **Cloudflare** | [Data Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7374706?gh_jid=7374706) | — | Feb 06 |
