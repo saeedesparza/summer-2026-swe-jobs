@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 16, 2026 13:11 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 16, 2026 15:23 UTC**  
 > **88** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 16 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026) - Lisbon](https://boards.greenhouse.io/cloudflare/jobs/7816824?gh_jid=7816824) | — | Apr 15 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | — | Apr 15 |
 | **Cloudflare** | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | — | Apr 14 |
@@ -15,7 +16,6 @@
 | **Cloudflare** | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | — | Apr 14 |
 | **Cloudflare** | [Business Systems Analyst Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7812290?gh_jid=7812290) | — | Apr 13 |
 | **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 13 |
-| **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 13 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 13 |
 | **Brex** | [Software Engineer, Internship - 2026](https://www.brex.com/careers/8434385002?gh_jid=8434385002) | — | Apr 11 |
 | **Brex** | [Software Engineer, Intern](https://www.brex.com/careers/8434389002?gh_jid=8434389002) | — | Apr 11 |
