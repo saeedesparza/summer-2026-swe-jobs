@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 20, 2026 21:43 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 20, 2026 22:39 UTC**  
 > **93** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,9 +8,9 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Singlestore** 🆕 | [Software Engineer, Platform Intern (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | Apr 20 |
+| **Singlestore** | [Software Engineer, Platform Intern (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | Apr 20 |
 | **Singlestore** | [Software Engineer Intern, Helios(Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7782709) | — | Apr 20 |
-| **Singlestore** 🆕 | [Software Engineer Intern, Engine (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7783300) | — | Apr 20 |
+| **Singlestore** | [Software Engineer Intern, Engine (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7783300) | — | Apr 20 |
 | **Waymo** | [2026 Summer Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7254796) | — | Apr 17 |
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 17 |
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 16 |
