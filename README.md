@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 21, 2026 15:11 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 21, 2026 16:52 UTC**  
 > **95** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,13 +8,13 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 21 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5123053008) | — | Apr 21 |
 | **Singlestore** | [Software Engineer, Platform Intern (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | Apr 20 |
 | **Singlestore** | [Software Engineer Intern, Helios(Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7782709) | — | Apr 20 |
 | **Singlestore** | [Software Engineer Intern, Engine (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7783300) | — | Apr 20 |
 | **Waymo** | [2026 Summer Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7254796) | — | Apr 17 |
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 17 |
-| **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 16 |
 | **Stripe** | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | — | Apr 16 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026) - Lisbon](https://boards.greenhouse.io/cloudflare/jobs/7816824?gh_jid=7816824) | — | Apr 15 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | — | Apr 15 |
