@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 21, 2026 19:03 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 21, 2026 20:05 UTC**  
 > **95** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,36 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | — | Apr 21 |
+| **Cloudflare** | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | — | Apr 21 |
+| **Cloudflare** | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | — | Apr 21 |
+| **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 21 |
+| **Cloudflare** | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | — | Apr 21 |
+| **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) | — | Apr 21 |
+| **Cloudflare** | [Sales and Marketing Project Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736669?gh_jid=7736669) | — | Apr 21 |
+| **Cloudflare** | [Marketing Events and Campaigns Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733327?gh_jid=7733327) | — | Apr 21 |
+| **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) | — | Apr 21 |
+| **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | — | Apr 21 |
+| **Cloudflare** | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | — | Apr 21 |
+| **Cloudflare** | [Sales Revenue AI Tools Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7770160?gh_jid=7770160) | — | Apr 21 |
+| **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7765500?gh_jid=7765500) | — | Apr 21 |
+| **Cloudflare** | [Marketing Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729606?gh_jid=7729606) | — | Apr 21 |
+| **Cloudflare** | [Customer Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7758279?gh_jid=7758279) | — | Apr 21 |
+| **Cloudflare** | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | — | Apr 21 |
+| **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | — | Apr 21 |
+| **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | — | Apr 21 |
+| **Cloudflare** | [Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729719?gh_jid=7729719) | — | Apr 21 |
+| **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | — | Apr 21 |
+| **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | — | Apr 21 |
+| **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637) | — | Apr 21 |
+| **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660) | — | Apr 21 |
+| **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726055?gh_jid=7726055) | — | Apr 21 |
+| **Cloudflare** | [Data Analytics Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7668989?gh_jid=7668989) | — | Apr 21 |
+| **Cloudflare** | [Data Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7374706?gh_jid=7374706) | — | Apr 21 |
+| **Cloudflare** | [Physical Security Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577080?gh_jid=7577080) | — | Apr 21 |
+| **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7358525?gh_jid=7358525) | — | Apr 21 |
+| **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147) | — | Apr 21 |
+| **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359136?gh_jid=7359136) | — | Apr 21 |
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 21 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5123053008) | — | Apr 21 |
 | **Singlestore** | [Software Engineer, Platform Intern (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | Apr 20 |
@@ -17,60 +47,30 @@
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 17 |
 | **Stripe** | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | — | Apr 16 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026) - Lisbon](https://boards.greenhouse.io/cloudflare/jobs/7816824?gh_jid=7816824) | — | Apr 15 |
-| **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | — | Apr 15 |
-| **Cloudflare** | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | — | Apr 14 |
 | **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Apr 14 |
-| **Cloudflare** | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | — | Apr 14 |
 | **Cloudflare** | [Business Systems Analyst Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7812290?gh_jid=7812290) | — | Apr 13 |
-| **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 13 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 13 |
 | **Brex** | [Software Engineer, Internship - 2026](https://www.brex.com/careers/8434385002?gh_jid=8434385002) | — | Apr 11 |
 | **Brex** | [Software Engineer, Intern](https://www.brex.com/careers/8434389002?gh_jid=8434389002) | — | Apr 11 |
 | **Udemy** | [Front End Software Engineer Intern](https://app.careerpuck.com/job-board/udemy/job/5809832004?gh_jid=5809832004) | — | Apr 10 |
-| **Cloudflare** | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | — | Apr 09 |
-| **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) | — | Apr 08 |
 | **Cloudflare** | [Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151) | — | Apr 08 |
-| **Cloudflare** | [Sales and Marketing Project Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736669?gh_jid=7736669) | — | Apr 07 |
-| **Cloudflare** | [Marketing Events and Campaigns Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733327?gh_jid=7733327) | — | Apr 07 |
-| **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) | — | Apr 06 |
-| **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | — | Apr 06 |
 | **Motional** | [2026 Summer Intern – PhD – Research Engineering Intern, Generative Simulation Validation](https://motional.com/open-positions/?gh_jid=7646487003#/7646487003) | — | Apr 06 |
 | **Motional** | [2026 Summer Intern – MS/PhD – Infrastructure](https://motional.com/open-positions/?gh_jid=7570086003#/7570086003) | — | Apr 06 |
 | **Twilio** | [Software Engineer Intern (June start, Remote-Ireland)](https://job-boards.greenhouse.io/twilio/jobs/7585589) | — | Apr 06 |
-| **Cloudflare** | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | — | Apr 02 |
 | **Greenlight** | [Data Analytics Intern](https://jobs.lever.co/greenlight/000fea6e-4dc2-42a7-9389-b6591dbecdb1) | Atlanta, GA | Apr 02 |
 | **Greenlight** | [Product Manager Intern](https://jobs.lever.co/greenlight/97ed5fd4-6156-4b0b-b009-0af7b83916d1) | Atlanta, GA | Apr 02 |
-| **Cloudflare** | [Sales Revenue AI Tools Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7770160?gh_jid=7770160) | — | Apr 01 |
-| **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7765500?gh_jid=7765500) | — | Apr 01 |
-| **Cloudflare** | [Marketing Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729606?gh_jid=7729606) | — | Apr 01 |
 | **Udemy** | [Data Science Intern, AI Products](https://app.careerpuck.com/job-board/udemy/job/5809884004?gh_jid=5809884004) | — | Apr 01 |
-| **Cloudflare** | [Customer Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7758279?gh_jid=7758279) | — | Apr 01 |
 | **Udemy** | [Evaluative UX Research Intern](https://app.careerpuck.com/job-board/udemy/job/5809877004?gh_jid=5809877004) | — | Mar 30 |
-| **Cloudflare** | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | — | Mar 30 |
 | **Cloudflare** | [Product Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7362080?gh_jid=7362080) | — | Mar 30 |
 | **Cloudflare** | [Infrastructure Deployment Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7759602?gh_jid=7759602) | — | Mar 27 |
 | **Scaleai** | [AI Deployment Strategist Intern](https://job-boards.greenhouse.io/scaleai/jobs/4677519005) | — | Mar 26 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5129429008) | — | Mar 26 |
-| **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | — | Mar 24 |
-| **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | — | Mar 24 |
-| **Cloudflare** | [Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729719?gh_jid=7729719) | — | Mar 19 |
-| **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | — | Mar 19 |
-| **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | — | Mar 19 |
-| **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637) | — | Mar 19 |
-| **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660) | — | Mar 19 |
-| **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726055?gh_jid=7726055) | — | Mar 19 |
 | **Cloudflare** | [Data and Technology - Operations and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7675578?gh_jid=7675578) | — | Mar 13 |
-| **Cloudflare** | [Data Analytics Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7668989?gh_jid=7668989) | — | Mar 05 |
 | **Cloudflare** | [Data and Technology - Legal Privacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7659508?gh_jid=7659508) | — | Mar 03 |
 | **Udemy** | [Software Engineering Intern](https://app.careerpuck.com/job-board/udemy/job/5809881004?gh_jid=5809881004) | — | Mar 03 |
 | **Airbnb** | [Machine Learning Engineering Intern (PhD)](https://careers.airbnb.com/positions/7669906?gh_jid=7669906) | — | Mar 02 |
 | **Nuro** | [Systems Test Engineering Intern](https://nuro.ai/careersitem?gh_jid=7587180) | — | Feb 10 |
 | **Cloudflare** | [ Red Team Security Intern (Summer 2026) ](https://boards.greenhouse.io/cloudflare/jobs/7578802?gh_jid=7578802) | — | Feb 06 |
-| **Cloudflare** | [Data Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7374706?gh_jid=7374706) | — | Feb 06 |
-| **Cloudflare** | [Physical Security Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577080?gh_jid=7577080) | — | Feb 06 |
-| **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7358525?gh_jid=7358525) | — | Feb 06 |
-| **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147) | — | Feb 06 |
-| **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359136?gh_jid=7359136) | — | Feb 06 |
 | **Labelbox** | [Applied Research Intern](https://job-boards.greenhouse.io/labelbox/jobs/4820677007) | — | Sep 17 |
 | **Replit** | [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | — |  |
 | **Nvidia** | [Software Engineering Intern, Frame Core](https://nvidia.wd5.myworkdayjobs.com/job/France-Remote/Software-Engineering-Intern--Frame-Core_JR2015550) | 4 Locations |  |
