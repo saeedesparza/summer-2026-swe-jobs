@@ -1,7 +1,7 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 21, 2026 08:31 UTC**  
-> **93** positions found · Scraped from Greenhouse, Lever & Ashby  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 21, 2026 10:22 UTC**  
+> **95** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
 ---
@@ -48,6 +48,7 @@
 | **Cloudflare** | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | — | Mar 30 |
 | **Cloudflare** | [Product Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7362080?gh_jid=7362080) | — | Mar 30 |
 | **Cloudflare** | [Infrastructure Deployment Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7759602?gh_jid=7759602) | — | Mar 27 |
+| **Scaleai** 🆕 | [AI Deployment Strategist Intern](https://job-boards.greenhouse.io/scaleai/jobs/4677519005) | — | Mar 26 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5129429008) | — | Mar 26 |
 | **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | — | Mar 24 |
 | **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | — | Mar 24 |
@@ -70,6 +71,7 @@
 | **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7358525?gh_jid=7358525) | — | Feb 06 |
 | **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147) | — | Feb 06 |
 | **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359136?gh_jid=7359136) | — | Feb 06 |
+| **Labelbox** 🆕 | [Applied Research Intern](https://job-boards.greenhouse.io/labelbox/jobs/4820677007) | — | Sep 17 |
 | **Replit** | [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | — |  |
 | **Nvidia** | [Software Engineering Intern, Frame Core](https://nvidia.wd5.myworkdayjobs.com/job/France-Remote/Software-Engineering-Intern--Frame-Core_JR2015550) | 4 Locations |  |
 | **Nvidia** | [Software Engineering Intern, Autonomous Vehicles - 2026](https://nvidia.wd5.myworkdayjobs.com/job/China-Shenzhen/Software-Engineering-Intern--Autonomous-Vehicles---2026_JR2012899) | 2 Locations |  |
