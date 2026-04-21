@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 21, 2026 11:57 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 21, 2026 13:06 UTC**  
 > **95** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5123053008) | — | Apr 21 |
 | **Singlestore** | [Software Engineer, Platform Intern (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | Apr 20 |
 | **Singlestore** | [Software Engineer Intern, Helios(Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7782709) | — | Apr 20 |
 | **Singlestore** | [Software Engineer Intern, Engine (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7783300) | — | Apr 20 |
@@ -52,7 +53,6 @@
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5129429008) | — | Mar 26 |
 | **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | — | Mar 24 |
 | **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | — | Mar 24 |
-| **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5123053008) | — | Mar 20 |
 | **Cloudflare** | [Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729719?gh_jid=7729719) | — | Mar 19 |
 | **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | — | Mar 19 |
 | **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | — | Mar 19 |
