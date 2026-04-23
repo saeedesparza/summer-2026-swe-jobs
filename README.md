@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 23, 2026 13:04 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 23, 2026 15:33 UTC**  
 > **97** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,10 +8,10 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Twilio** | [Developer Advocacy Intern](https://job-boards.greenhouse.io/twilio/jobs/7728956) | — | Apr 23 |
 | **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637) | — | Apr 22 |
 | **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660) | — | Apr 22 |
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | Apr 22 |
-| **Twilio** | [Developer Advocacy Intern](https://job-boards.greenhouse.io/twilio/jobs/7728956) | — | Apr 22 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | — | Apr 21 |
 | **Cloudflare** | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | — | Apr 21 |
 | **Cloudflare** | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | — | Apr 21 |
