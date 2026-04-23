@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 23, 2026 15:33 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 23, 2026 17:12 UTC**  
 > **97** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Nuro** | [Systems Test Engineering Intern](https://nuro.ai/careersitem?gh_jid=7587180) | — | Apr 23 |
 | **Twilio** | [Developer Advocacy Intern](https://job-boards.greenhouse.io/twilio/jobs/7728956) | — | Apr 23 |
 | **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637) | — | Apr 22 |
 | **Cloudflare** | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660) | — | Apr 22 |
@@ -71,7 +72,6 @@
 | **Cloudflare** | [Data and Technology - Legal Privacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7659508?gh_jid=7659508) | — | Mar 03 |
 | **Udemy** | [Software Engineering Intern](https://app.careerpuck.com/job-board/udemy/job/5809881004?gh_jid=5809881004) | — | Mar 03 |
 | **Airbnb** | [Machine Learning Engineering Intern (PhD)](https://careers.airbnb.com/positions/7669906?gh_jid=7669906) | — | Mar 02 |
-| **Nuro** | [Systems Test Engineering Intern](https://nuro.ai/careersitem?gh_jid=7587180) | — | Feb 10 |
 | **Cloudflare** | [ Red Team Security Intern (Summer 2026) ](https://boards.greenhouse.io/cloudflare/jobs/7578802?gh_jid=7578802) | — | Feb 06 |
 | **Labelbox** | [Applied Research Intern](https://job-boards.greenhouse.io/labelbox/jobs/4820677007) | — | Sep 17 |
 | **Replit** | [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | — |  |
