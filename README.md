@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 24, 2026 16:47 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 24, 2026 17:49 UTC**  
 > **98** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,8 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Twilio** 🆕 | [Software Engineer Intern (22nd June - 11th September, remote-US)](https://job-boards.greenhouse.io/twilio/jobs/7850821) | — | Apr 24 |
+| **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5129429008) | — | Apr 24 |
+| **Twilio** | [Software Engineer Intern (22nd June - 11th September, remote-US)](https://job-boards.greenhouse.io/twilio/jobs/7850821) | — | Apr 24 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 24 |
 | **Waymo** | [2026 Summer Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7254796) | — | Apr 23 |
 | **Nuro** | [Systems Test Engineering Intern](https://nuro.ai/careersitem?gh_jid=7587180) | — | Apr 23 |
@@ -68,7 +69,6 @@
 | **Cloudflare** | [Product Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7362080?gh_jid=7362080) | — | Mar 30 |
 | **Cloudflare** | [Infrastructure Deployment Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7759602?gh_jid=7759602) | — | Mar 27 |
 | **Scaleai** | [AI Deployment Strategist Intern](https://job-boards.greenhouse.io/scaleai/jobs/4677519005) | — | Mar 26 |
-| **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5129429008) | — | Mar 26 |
 | **Cloudflare** | [Data and Technology - Operations and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7675578?gh_jid=7675578) | — | Mar 13 |
 | **Cloudflare** | [Data and Technology - Legal Privacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7659508?gh_jid=7659508) | — | Mar 03 |
 | **Udemy** | [Software Engineering Intern](https://app.careerpuck.com/job-board/udemy/job/5809881004?gh_jid=5809881004) | — | Mar 03 |
