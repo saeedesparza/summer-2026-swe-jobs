@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 24, 2026 17:49 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 24, 2026 18:39 UTC**  
 > **98** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) | — | Apr 24 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5129429008) | — | Apr 24 |
 | **Twilio** | [Software Engineer Intern (22nd June - 11th September, remote-US)](https://job-boards.greenhouse.io/twilio/jobs/7850821) | — | Apr 24 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 24 |
@@ -22,7 +23,6 @@
 | **Cloudflare** | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | — | Apr 21 |
 | **Cloudflare** | [Global Customer Services - AI Builder Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663) | — | Apr 21 |
 | **Cloudflare** | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | — | Apr 21 |
-| **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) | — | Apr 21 |
 | **Cloudflare** | [Sales and Marketing Project Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736669?gh_jid=7736669) | — | Apr 21 |
 | **Cloudflare** | [Marketing Events and Campaigns Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733327?gh_jid=7733327) | — | Apr 21 |
 | **Cloudflare** | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) | — | Apr 21 |
