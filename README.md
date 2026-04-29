@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 29, 2026 08:02 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 29, 2026 10:48 UTC**  
 > **99** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -9,7 +9,7 @@
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
 | **Cloudflare** | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | — | Apr 29 |
-| **Xsolla** 🆕 | [Project Coordinator - Engineering Team (Intern)](https://jobs.lever.co/xsolla/2c63b218-d4ce-4f94-a124-69e179f468fb) | Kuala Lumpur | Apr 29 |
+| **Xsolla** | [Project Coordinator - Engineering Team (Intern)](https://jobs.lever.co/xsolla/2c63b218-d4ce-4f94-a124-69e179f468fb) | Kuala Lumpur | Apr 29 |
 | **Twilio** | [Software Engineer Intern (22nd June - 11th September, remote-US)](https://job-boards.greenhouse.io/twilio/jobs/7850821) | — | Apr 28 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 28 |
 | **Twilio** | [Developer Advocacy Intern](https://job-boards.greenhouse.io/twilio/jobs/7728956) | — | Apr 28 |
