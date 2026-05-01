@@ -1,7 +1,7 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **April 30, 2026 23:44 UTC**  
-> **99** positions found · Scraped from Greenhouse, Lever & Ashby  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 01, 2026 02:06 UTC**  
+> **100** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
 ---
@@ -49,6 +49,7 @@
 | **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147) | — | Apr 21 |
 | **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359136?gh_jid=7359136) | — | Apr 21 |
 | **Cloudflare** | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | — | Apr 21 |
+| **Cloudflare** 🆕 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | — | Apr 21 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5123053008) | — | Apr 21 |
 | **Singlestore** | [Software Engineer, Platform Intern (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | Apr 20 |
 | **Singlestore** | [Software Engineer Intern, Helios(Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7782709) | — | Apr 20 |
