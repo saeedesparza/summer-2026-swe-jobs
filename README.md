@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 06, 2026 12:27 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 06, 2026 15:25 UTC**  
 > **102** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -9,7 +9,7 @@
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | May 04 |
-| **Instacart** 🆕 | [Machine Learning Engineer, PhD Intern](https://instacart.careers/job/?gh_jid=5917202) | — | May 01 |
+| **Instacart** | [Machine Learning Engineer, PhD Intern](https://instacart.careers/job/?gh_jid=5917202) | — | May 01 |
 | **Cloudflare** | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | — | May 01 |
 | **Snorkelai** | [Software Engineer —  Summer Intern](https://job-boards.greenhouse.io/snorkelai/jobs/5774350004) | — | May 01 |
 | **Cloudflare** | [Marketing Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729606?gh_jid=7729606) | — | Apr 30 |
