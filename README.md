@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 06, 2026 21:05 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 06, 2026 22:42 UTC**  
 > **102** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -52,6 +52,7 @@
 | **Cloudflare** | [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359136?gh_jid=7359136) | — | Apr 21 |
 | **Cloudflare** | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | — | Apr 21 |
 | **Cloudflare** | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | — | Apr 21 |
+| **Cloudflare** | [Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151) | — | Apr 21 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5123053008) | — | Apr 21 |
 | **Singlestore** | [Software Engineer, Platform Intern (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | Apr 20 |
 | **Singlestore** | [Software Engineer Intern, Helios(Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7782709) | — | Apr 20 |
@@ -62,7 +63,6 @@
 | **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Apr 14 |
 | **Cloudflare** | [Business Systems Analyst Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7812290?gh_jid=7812290) | — | Apr 13 |
 | **Udemy** | [Front End Software Engineer Intern](https://app.careerpuck.com/job-board/udemy/job/5809832004?gh_jid=5809832004) | — | Apr 10 |
-| **Cloudflare** | [Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151) | — | Apr 08 |
 | **Motional** | [2026 Summer Intern – PhD – Research Engineering Intern, Generative Simulation Validation](https://motional.com/open-positions/?gh_jid=7646487003#/7646487003) | — | Apr 06 |
 | **Motional** | [2026 Summer Intern – MS/PhD – Infrastructure](https://motional.com/open-positions/?gh_jid=7570086003#/7570086003) | — | Apr 06 |
 | **Twilio** | [Software Engineer Intern (June start, Remote-Ireland)](https://job-boards.greenhouse.io/twilio/jobs/7585589) | — | Apr 06 |
