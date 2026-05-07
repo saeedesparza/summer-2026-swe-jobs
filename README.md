@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 07, 2026 05:33 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 07, 2026 08:17 UTC**  
 > **103** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Cloudflare** 🆕 | [Marketing Events and Campaigns Intern (July to Dec 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | — | May 07 |
+| **Cloudflare** | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | — | May 07 |
 | **Cloudflare** | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | — | May 06 |
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | May 04 |
 | **Instacart** | [Machine Learning Engineer, PhD Intern](https://instacart.careers/job/?gh_jid=5917202) | — | May 01 |
