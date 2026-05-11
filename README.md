@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 11, 2026 16:27 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 11, 2026 18:53 UTC**  
 > **104** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Snorkelai** | [Software Engineer —  Summer Intern](https://job-boards.greenhouse.io/snorkelai/jobs/5774350004) | — | May 11 |
 | **Cloudflare** | [Sales Project Manager Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | — | May 11 |
 | **Cloudflare** | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | — | May 11 |
 | **Cloudflare** | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | — | May 07 |
@@ -15,7 +16,6 @@
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | — | May 04 |
 | **Instacart** | [Machine Learning Engineer, PhD Intern](https://instacart.careers/job/?gh_jid=5917202) | — | May 01 |
 | **Cloudflare** | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | — | May 01 |
-| **Snorkelai** | [Software Engineer —  Summer Intern](https://job-boards.greenhouse.io/snorkelai/jobs/5774350004) | — | May 01 |
 | **Cloudflare** | [Marketing Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729606?gh_jid=7729606) | — | Apr 30 |
 | **Twilio** | [Software Engineer Intern (22nd June - 11th September, remote-US)](https://job-boards.greenhouse.io/twilio/jobs/7850821) | — | Apr 30 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | Apr 30 |
