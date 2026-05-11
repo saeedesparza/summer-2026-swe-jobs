@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 11, 2026 13:40 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 11, 2026 16:27 UTC**  
 > **104** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Cloudflare** 🆕 | [Sales Project Manager Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | — | May 11 |
+| **Cloudflare** | [Sales Project Manager Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | — | May 11 |
 | **Cloudflare** | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | — | May 11 |
 | **Cloudflare** | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | — | May 07 |
 | **Cloudflare** | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | — | May 06 |
