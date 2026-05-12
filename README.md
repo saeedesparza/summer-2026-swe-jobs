@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 12, 2026 08:38 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 12, 2026 11:14 UTC**  
 > **105** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
