@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 22, 2026 16:01 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 22, 2026 16:56 UTC**  
 > **111** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Cloudflare** | [Sales Project Manager Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | — | May 22 |
+| **Cloudflare** | [Sales Project Manager (Process & AI Innovation)  Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | — | May 22 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | May 22 |
 | **Twilio** | [Developer Advocacy Intern](https://job-boards.greenhouse.io/twilio/jobs/7728956) | — | May 22 |
 | **Cloudflare** | [Machine Learning Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7914628?gh_jid=7914628) | — | May 21 |
