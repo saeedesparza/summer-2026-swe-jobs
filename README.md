@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 26, 2026 07:09 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **May 26, 2026 09:07 UTC**  
 > **111** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,10 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Cloudflare** | [Sales Project Manager (Process & AI Innovation)  Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | — | May 22 |
+| **Cloudflare** | [Sales Project Manager (Process & AI Innovation)  Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | — | May 26 |
+| **Singlestore** | [Software Engineer Intern, Engine (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7783300) | — | May 26 |
+| **Singlestore** | [Software Engineer Intern, Helios(Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7782709) | — | May 26 |
+| **Singlestore** | [Software Engineer Intern | Platform (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | May 26 |
 | **Twilio** | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | — | May 22 |
 | **Twilio** | [Developer Advocacy Intern](https://job-boards.greenhouse.io/twilio/jobs/7728956) | — | May 22 |
 | **Cloudflare** | [Machine Learning Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7914628?gh_jid=7914628) | — | May 21 |
@@ -63,9 +66,6 @@
 | **Cloudflare** | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | — | Apr 21 |
 | **Cloudflare** | [Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151) | — | Apr 21 |
 | **Starburst** | [Software Engineering Intern](https://job-boards.greenhouse.io/starburst/jobs/5123053008) | — | Apr 21 |
-| **Singlestore** | [Software Engineer, Platform Intern (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7833869) | — | Apr 20 |
-| **Singlestore** | [Software Engineer Intern, Helios(Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7782709) | — | Apr 20 |
-| **Singlestore** | [Software Engineer Intern, Engine (Summer 2026)](https://job-boards.greenhouse.io/singlestore/jobs/7783300) | — | Apr 20 |
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 17 |
 | **Stripe** | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | — | Apr 16 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026) - Lisbon](https://boards.greenhouse.io/cloudflare/jobs/7816824?gh_jid=7816824) | — | Apr 15 |
