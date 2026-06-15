@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **June 15, 2026 15:59 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **June 15, 2026 17:44 UTC**  
 > **112** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,6 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Jun 15 |
 | **Scaleai** | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | — | Jun 06 |
 | **Cloudflare** | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | — | May 29 |
 | **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | — | May 29 |
@@ -70,7 +71,6 @@
 | **Waymo** | [2026 Intern, PhD, Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=7252833) | — | Apr 17 |
 | **Stripe** | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | — | Apr 16 |
 | **Cloudflare** | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026) - Lisbon](https://boards.greenhouse.io/cloudflare/jobs/7816824?gh_jid=7816824) | — | Apr 15 |
-| **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Apr 14 |
 | **Cloudflare** | [Business Systems Analyst Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7812290?gh_jid=7812290) | — | Apr 13 |
 | **Udemy** | [Front End Software Engineer Intern](https://app.careerpuck.com/job-board/udemy/job/5809832004?gh_jid=5809832004) | — | Apr 10 |
 | **Motional** | [2026 Summer Intern – PhD – Research Engineering Intern, Generative Simulation Validation](https://motional.com/open-positions/?gh_jid=7646487003#/7646487003) | — | Apr 06 |
