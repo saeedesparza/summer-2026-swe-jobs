@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **June 17, 2026 01:50 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **June 17, 2026 03:06 UTC**  
 > **114** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Stripe** 🆕 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | — | Jun 16 |
+| **Stripe** | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | — | Jun 16 |
 | **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Jun 15 |
 | **Scaleai** | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | — | Jun 06 |
 | **Dashlane** | [Software Engineer Intern  (Stage de fin d'études)](https://job-boards.greenhouse.io/dashlane/jobs/7908010) | — | Jun 05 |
