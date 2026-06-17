@@ -1,16 +1,17 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **June 17, 2026 00:37 UTC**  
-> **113** positions found · Scraped from Greenhouse, Lever & Ashby  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **June 17, 2026 01:50 UTC**  
+> **114** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
 ---
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
+| **Stripe** 🆕 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | — | Jun 16 |
 | **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Jun 15 |
 | **Scaleai** | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | — | Jun 06 |
-| **Dashlane** 🆕 | [Software Engineer Intern  (Stage de fin d'études)](https://job-boards.greenhouse.io/dashlane/jobs/7908010) | — | Jun 05 |
+| **Dashlane** | [Software Engineer Intern  (Stage de fin d'études)](https://job-boards.greenhouse.io/dashlane/jobs/7908010) | — | Jun 05 |
 | **Cloudflare** | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | — | May 29 |
 | **Cloudflare** | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | — | May 29 |
 | **Cloudflare** | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | — | May 29 |
