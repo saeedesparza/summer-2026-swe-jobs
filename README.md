@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **July 06, 2026 19:44 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **July 06, 2026 21:22 UTC**  
 > **116** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -9,8 +9,8 @@
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
 | **Cloudflare** | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | — | Jul 02 |
-| **Databricks** 🆕 | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | — | Jul 01 |
-| **Stripe** 🆕 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | — | Jun 26 |
+| **Databricks** | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | — | Jul 01 |
+| **Stripe** | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | — | Jun 26 |
 | **Scaleai** | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | — | Jun 25 |
 | **Cloudflare** | [Technical Support Engineer Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382) | — | Jun 19 |
 | **Cloudflare** | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | — | Jun 19 |
