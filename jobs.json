@@ -1,5 +1,14 @@
 [
   {
+    "id": "gh:nuro:7351061",
+    "company": "nuro",
+    "title": "Software Engineer, AI Platform - Intern",
+    "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+    "location": "",
+    "posted_at": "2026-07-16T01:03:55-04:00",
+    "source": "greenhouse"
+  },
+  {
     "id": "gh:scaleai:4703343005",
     "company": "scaleai",
     "title": "AI Builder Intern",
@@ -69,15 +78,6 @@
     "url": "https://stripe.com/jobs/search?gh_jid=7874965",
     "location": "",
     "posted_at": "2026-06-16T18:15:48-04:00",
-    "source": "greenhouse"
-  },
-  {
-    "id": "gh:nuro:7351061",
-    "company": "nuro",
-    "title": "Software Engineer, AI Platform - Intern",
-    "url": "https://nuro.ai/careersitem?gh_jid=7351061",
-    "location": "",
-    "posted_at": "2026-06-15T13:18:22-04:00",
     "source": "greenhouse"
   },
   {
