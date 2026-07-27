@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **July 27, 2026 17:34 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **July 27, 2026 19:14 UTC**  
 > **118** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -10,7 +10,7 @@
 | ------- | ---- | -------- | :---------: |
 | **Databricks** | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | — | Jul 17 |
 | **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Jul 16 |
-| **Motional** 🆕 | [Software Engineer Intern (Mapping/Calibration)](https://motional.com/open-positions/?gh_jid=6659639003#/6659639003) | — | Jul 15 |
+| **Motional** | [Software Engineer Intern (Mapping/Calibration)](https://motional.com/open-positions/?gh_jid=6659639003#/6659639003) | — | Jul 15 |
 | **Scaleai** | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | — | Jul 09 |
 | **Cloudflare** | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | — | Jul 02 |
 | **Nuro** | [Reliability Engineer, Intern](https://nuro.ai/careersitem?gh_jid=7673849) | — | Jul 01 |
