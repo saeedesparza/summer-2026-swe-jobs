@@ -1,7 +1,7 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **August 07, 2026 08:08 UTC**  
-> **119** positions found · Scraped from Greenhouse, Lever & Ashby  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **August 07, 2026 09:52 UTC**  
+> **120** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
 ---
@@ -95,6 +95,7 @@
 | **Udemy** | [Software Engineering Intern](https://app.careerpuck.com/job-board/udemy/job/5809881004?gh_jid=5809881004) | — | Mar 03 |
 | **Airbnb** | [Machine Learning Engineering Intern (PhD)](https://careers.airbnb.com/positions/7669906?gh_jid=7669906) | — | Mar 02 |
 | **Cloudflare** | [ Red Team Security Intern (Summer 2026) ](https://boards.greenhouse.io/cloudflare/jobs/7578802?gh_jid=7578802) | — | Feb 06 |
+| **Xsolla** 🆕 | [Engineering Intern](https://jobs.lever.co/xsolla/b6943fc4-29c7-4829-a2db-b53915dd693b) | Kuala Lumpur | Nov 12 |
 | **Labelbox** | [Applied Research Intern](https://job-boards.greenhouse.io/labelbox/jobs/4820677007) | — | Sep 17 |
 | **Replit** | [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | — |  |
 | **Nvidia** | [Software Engineering Intern, Frame Core](https://nvidia.wd5.myworkdayjobs.com/job/France-Remote/Software-Engineering-Intern--Frame-Core_JR2015550) | 4 Locations |  |
