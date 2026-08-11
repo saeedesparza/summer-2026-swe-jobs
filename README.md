@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **August 11, 2026 16:48 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **August 11, 2026 17:50 UTC**  
 > **121** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Scaleai** | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | — | Aug 04 |
+| **Scaleai** | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | — | Aug 11 |
 | **Motional** | [Software Engineer Intern (Mapping/Calibration)](https://motional.com/open-positions/?gh_jid=6659639003#/6659639003) | — | Aug 03 |
 | **Databricks** | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | — | Jul 24 |
 | **Labelbox** | [Cyber Security Intern](https://job-boards.greenhouse.io/labelbox/jobs/5177341007) | — | Jul 23 |
