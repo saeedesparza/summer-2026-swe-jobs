@@ -1,5 +1,14 @@
 [
   {
+    "id": "gh:nuro:7351061",
+    "company": "nuro",
+    "title": "Software Engineer, AI Platform - Intern",
+    "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+    "location": "",
+    "posted_at": "2026-08-26T19:07:27-04:00",
+    "source": "greenhouse"
+  },
+  {
     "id": "gh:stripe:8097801",
     "company": "stripe",
     "title": "Software Engineer, Intern",
@@ -42,15 +51,6 @@
     "url": "https://job-boards.greenhouse.io/labelbox/jobs/5177341007",
     "location": "",
     "posted_at": "2026-07-23T18:42:33-04:00",
-    "source": "greenhouse"
-  },
-  {
-    "id": "gh:nuro:7351061",
-    "company": "nuro",
-    "title": "Software Engineer, AI Platform - Intern",
-    "url": "https://nuro.ai/careersitem?gh_jid=7351061",
-    "location": "",
-    "posted_at": "2026-07-16T01:03:55-04:00",
     "source": "greenhouse"
   },
   {
