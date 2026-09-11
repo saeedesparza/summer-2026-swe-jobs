@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **September 11, 2026 18:03 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **September 11, 2026 20:41 UTC**  
 > **124** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,8 +8,8 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Coinbase** 🆕 | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | — | Sep 08 |
-| **Coinbase** 🆕 | [Product Manager (HR Technology) Intern](https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504) | — | Sep 08 |
+| **Coinbase** | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | — | Sep 08 |
+| **Coinbase** | [Product Manager (HR Technology) Intern](https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504) | — | Sep 08 |
 | **Labelbox** | [Cyber Security Intern](https://job-boards.greenhouse.io/labelbox/jobs/5177341007) | — | Sep 01 |
 | **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8097801) | — | Aug 31 |
 | **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Aug 26 |
