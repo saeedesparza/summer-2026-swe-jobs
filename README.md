@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **September 18, 2026 22:06 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **September 19, 2026 00:49 UTC**  
 > **126** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Duolingo** 🆕 | [Associate Product Manager, Intern](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | — | Sep 15 |
+| **Duolingo** | [Associate Product Manager, Intern](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | — | Sep 15 |
 | **Coinbase** | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | — | Sep 08 |
 | **Coinbase** | [Product Manager (HR Technology) Intern](https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504) | — | Sep 08 |
 | **Coinbase** | [Data Engineer Intern](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) | — | Sep 08 |
