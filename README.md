@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **September 22, 2026 15:18 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **September 22, 2026 19:25 UTC**  
 > **128** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,7 +8,7 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Singlestore** 🆕 | [MIT- Software Engineer Intern | Engine](https://job-boards.greenhouse.io/singlestore/jobs/8220919) | — | Sep 21 |
+| **Singlestore** | [MIT- Software Engineer Intern | Engine](https://job-boards.greenhouse.io/singlestore/jobs/8220919) | — | Sep 21 |
 | **Motional** | [Software Engineer Intern (Mapping/Calibration)](https://motional.com/open-positions/?gh_jid=6659639003#/6659639003) | — | Sep 21 |
 | **Duolingo** | [Associate Product Manager, Intern](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | — | Sep 15 |
 | **Stripe** | [Software Engineer, Intern ](https://stripe.com/jobs/search?gh_jid=8130807) | — | Sep 10 |
