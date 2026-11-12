@@ -1,6 +1,6 @@
 # Summer 2026 CS Internships
 
-> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **November 11, 2026 23:53 UTC**  
+> 🤖 Auto-updated every hour via GitHub Actions &nbsp;|&nbsp; Last updated: **November 12, 2026 04:55 UTC**  
 > **134** positions found · Scraped from Greenhouse, Lever & Ashby  
 > 🆕 = added in the most recent hourly run
 
@@ -8,8 +8,8 @@
 
 | Company | Role | Location | Date Posted |
 | ------- | ---- | -------- | :---------: |
-| **Stripe** 🆕 | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805) | — | Nov 11 |
-| **Stripe** 🆕 | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8128745) | — | Nov 11 |
+| **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805) | — | Nov 11 |
+| **Stripe** | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8128745) | — | Nov 11 |
 | **Airbnb** | [Sales Development Intern, Services, Spain](https://careers.airbnb.com/positions/8372424?gh_jid=8372424) | — | Nov 11 |
 | **Nuro** | [Software Engineer, AI Platform - Intern](https://nuro.ai/careersitem?gh_jid=7351061) | — | Oct 09 |
 | **Waymo** | [2026 Summer Intern, PhD, Research, World Modeling Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8265173) | — | Oct 08 |
